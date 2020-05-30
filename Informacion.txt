@@ -1,0 +1,315 @@
+-----------------------------
+Imagen prueba0.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.0542168
+Homogeneidad: 0.205788
+Color Principal: 54
+-----------------------------
+Imagen prueba1.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.187976
+Homogeneidad: 0.771699
+Color Principal: 40
+-----------------------------
+Imagen prueba2.jpg
+Es un Paquete
+Pertenece a la region 8
+Energia: 0.0442491
+Homogeneidad: 0.338983
+Color Principal: 358
+-----------------------------
+Imagen prueba3.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.430178
+Homogeneidad: 0.691545
+Color Principal: 66
+-----------------------------
+Imagen prueba4.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.000796196
+Homogeneidad: 0.0903647
+Color Principal: 0
+-----------------------------
+Imagen prueba5.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.145916
+Homogeneidad: 0.445926
+Color Principal: 46
+-----------------------------
+Imagen prueba6.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.555983
+Homogeneidad: 0.787207
+Color Principal: 52
+-----------------------------
+Imagen prueba7.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.589851
+Homogeneidad: 0.790028
+Color Principal: 48
+-----------------------------
+Imagen prueba8.jpg
+Es indeterminado
+Pertenece a la region 9
+Energia: 0.330917
+Homogeneidad: 0.651798
+Color Principal: 358
+-----------------------------
+Imagen prueba9.jpg
+Es un Paquete
+Pertenece a la region 8
+Energia: 0.00746989
+Homogeneidad: 0.145143
+Color Principal: 354
+-----------------------------
+Imagen prueba10.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.295405
+Homogeneidad: 0.566115
+Color Principal: 30
+-----------------------------
+Imagen prueba11.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.0881773
+Homogeneidad: 0.34869
+Color Principal: 148
+-----------------------------
+Imagen prueba12.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.0340186
+Homogeneidad: 0.270756
+Color Principal: 48
+-----------------------------
+Imagen prueba13.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.0190738
+Homogeneidad: 0.248252
+Color Principal: 54
+-----------------------------
+Imagen prueba14.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.374456
+Homogeneidad: 0.639052
+Color Principal: 40
+-----------------------------
+Imagen prueba15.jpg
+Es un Paquete
+Pertenece a la region 4
+Energia: 0.0743176
+Homogeneidad: 0.367668
+Color Principal: 240
+-----------------------------
+Imagen prueba16.jpg
+Es indeterminado
+Pertenece a la region 9
+Energia: 0.455329
+Homogeneidad: 0.830218
+Color Principal: 358
+-----------------------------
+Imagen prueba17.jpg
+Es un Paquete
+Pertenece a la region 5
+Energia: 0.336587
+Homogeneidad: 0.615858
+Color Principal: 212
+-----------------------------
+Imagen prueba18.jpg
+Es un Paquete
+Pertenece a la region 3
+Energia: 0.75095
+Homogeneidad: 0.99622
+Color Principal: 14
+-----------------------------
+Imagen prueba19.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.0948174
+Homogeneidad: 0.363705
+Color Principal: 2
+-----------------------------
+Imagen prueba20.jpg
+Es un Paquete
+Pertenece a la region 7
+Energia: 0.978314
+Homogeneidad: 0.994011
+Color Principal: 214
+-----------------------------
+Imagen prueba21.jpg
+Es un Paquete
+Pertenece a la region 7
+Energia: 0.627454
+Homogeneidad: 0.801106
+Color Principal: 204
+-----------------------------
+Imagen prueba22.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.012806
+Homogeneidad: 0.241038
+Color Principal: 34
+-----------------------------
+Imagen prueba23.jpg
+Es un Paquete
+Pertenece a la region 4
+Energia: 0.105494
+Homogeneidad: 0.369846
+Color Principal: 216
+-----------------------------
+Imagen prueba24.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.00167061
+Homogeneidad: 0.160171
+Color Principal: 0
+-----------------------------
+Imagen prueba25.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.527808
+Homogeneidad: 0.748147
+Color Principal: 50
+-----------------------------
+Imagen prueba26.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.00796751
+Homogeneidad: 0.236768
+Color Principal: 70
+-----------------------------
+Imagen prueba27.jpg
+Es indeterminado
+Pertenece a la region 9
+Energia: 0.238192
+Homogeneidad: 0.813614
+Color Principal: 344
+-----------------------------
+Imagen prueba28.jpg
+Es un Paquete
+Pertenece a la region 3
+Energia: 0.681275
+Homogeneidad: 0.918184
+Color Principal: 44
+-----------------------------
+Imagen prueba29.jpg
+Es un Paquete
+Pertenece a la region 5
+Energia: 0.32386
+Homogeneidad: 0.614189
+Color Principal: 214
+-----------------------------
+Imagen prueba30.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.131384
+Homogeneidad: 0.421721
+Color Principal: 54
+-----------------------------
+Imagen prueba31.jpg
+Es un Paquete
+Pertenece a la region 4
+Energia: 0.000200689
+Homogeneidad: 0.0721085
+Color Principal: 202
+-----------------------------
+Imagen prueba32.jpg
+Es un Paquete
+Pertenece a la region 4
+Energia: 0.0173241
+Homogeneidad: 0.220432
+Color Principal: 212
+-----------------------------
+Imagen prueba33.jpg
+Es indeterminado
+Pertenece a la region 9
+Energia: 0.422566
+Homogeneidad: 0.685034
+Color Principal: 346
+-----------------------------
+Imagen prueba34.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.096544
+Homogeneidad: 0.416918
+Color Principal: 0
+-----------------------------
+Imagen prueba35.jpg
+Es indeterminado
+Pertenece a la region 9
+Energia: 0.434415
+Homogeneidad: 0.684319
+Color Principal: 324
+-----------------------------
+Imagen prueba36.jpg
+Es un Paquete
+Pertenece a la region 5
+Energia: 0.311547
+Homogeneidad: 0.604288
+Color Principal: 226
+-----------------------------
+Imagen prueba37.jpg
+Es un Paquete
+Pertenece a la region 5
+Energia: 0.115888
+Homogeneidad: 0.39626
+Color Principal: 198
+-----------------------------
+Imagen prueba38.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.214282
+Homogeneidad: 0.517167
+Color Principal: 24
+-----------------------------
+Imagen prueba39.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.047058
+Homogeneidad: 0.361624
+Color Principal: 14
+-----------------------------
+Imagen prueba40.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.118712
+Homogeneidad: 0.378573
+Color Principal: 38
+-----------------------------
+Imagen prueba41.jpg
+Es un Paquete
+Pertenece a la region 5
+Energia: 0.43047
+Homogeneidad: 0.691875
+Color Principal: 226
+-----------------------------
+Imagen prueba42.jpg
+Es un Paquete
+Pertenece a la region 8
+Energia: 0.0346308
+Homogeneidad: 0.24799
+Color Principal: 336
+-----------------------------
+Imagen prueba43.jpg
+Es un Fruta
+Pertenece a la region 1
+Energia: 0.071889
+Homogeneidad: 0.348683
+Color Principal: 28
+-----------------------------
+Imagen prueba44.jpg
+Es un Fruta
+Pertenece a la region 2
+Energia: 0.348201
+Homogeneidad: 0.623462
+Color Principal: 42
